@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  height: 100vh;
+}
+.p {
+  margin-bottom: 0px;
+}
+header {
+  background-color: rgb(53, 58, 63);
+
+}
+.img-fluid {
+  width: 80px;
+}
+.clubs ,
+.diamond ,
+.red-heart ,
+.spades{
+  border: 2px solid rgba(146, 143, 143, 0.412);
+  border-radius: 10px;
+  height: 220px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+
+
